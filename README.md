@@ -1,2 +1,2 @@
 # python-rpi-gpio
-Program RPI with Python
+Program RPI in Python
